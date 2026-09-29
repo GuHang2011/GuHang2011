@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="430" viewBox="0 0 1400 430" role="img" aria-labelledby="title desc">
+  <title id="title">Hang Gu — Research and Engineering</title>
+  <desc id="desc">An academic profile focused on multimodal learning, intelligent retrieval and data systems.</desc>
+  <rect width="1400" height="430" rx="16" fill="#142e36"/>
+  <g stroke="#33525a" stroke-width="1" opacity=".6">
+    <path d="M900 0v430M1000 0v430M1100 0v430M1200 0v430M1300 0v430M800 90h600M800 190h600M800 290h600M800 390h600"/>
+  </g>
+  <path d="M980 122 1200 208 1050 330 980 122 1300 95 1200 208 1330 346 1050 330" fill="none" stroke="#79b4a1" stroke-width="2" opacity=".7"/>
+  <g fill="#e6c892"><circle cx="980" cy="122" r="7"/><circle cx="1200" cy="208" r="12"/><circle cx="1050" cy="330" r="7"/><circle cx="1300" cy="95" r="5"/><circle cx="1330" cy="346" r="5"/></g>
+  <rect x="64" y="60" width="36" height="3" fill="#e6c892"/>
+  <text x="116" y="70" font-family="Verdana,sans-serif" font-size="16" letter-spacing="3" fill="#bbd5ce">RESEARCH &amp; ENGINEERING</text>
+  <text x="62" y="197" font-family="Georgia,serif" font-size="92" fill="#f9f5eb">Hang Gu</text>
+  <text x="66" y="247" font-family="Verdana,sans-serif" font-size="22" fill="#c5dcd5">Multimodal learning · Intelligent retrieval</text>
+  <text x="66" y="285" font-family="Verdana,sans-serif" font-size="22" fill="#c5dcd5">Data systems · Frontend engineering</text>
+  <text x="66" y="364" font-family="Verdana,sans-serif" font-size="16" letter-spacing="2" fill="#e6c892">QUESTIONS → EXPERIMENTS → SYSTEMS</text>
+</svg>
