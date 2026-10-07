@@ -1,7 +1,7 @@
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/research-still.png" />
-    <img src="assets/research-motion.gif" alt="Hang Gu — research and engineering: questions, experiments, useful systems" width="1400" height="430" />
+    <img src="assets/research-motion.gif" alt="Hang Gu — research and engineering: questions, experiments, useful systems" width="1400" />
   </picture>
 </p>
 
