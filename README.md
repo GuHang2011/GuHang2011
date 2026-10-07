@@ -16,19 +16,21 @@
 
 ## About
 
-I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏财经职业技术学院**, with an MSc in Computer Science (Data Science) from **Universiti Malaya**. My work connects multimodal learning and intelligent retrieval with practical software and data systems.
+I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏财经职业技术学院**, with an MSc in Computer Science (Data Science) from **Universiti Malaya** and a background in frontend engineering.
 
-Before moving into higher education, I worked in frontend engineering, including configurable forms, workflow interfaces, modular dashboards, and applications for unreliable network conditions.
+**Research focus:** multimodal learning, reliable evaluation with limited labels, and intelligent retrieval. I connect these interests with readable software and reproducible data experiments.
 
-**Research interests:** multimodal learning · evaluation with limited labels · retrieval-augmented generation · document understanding.
-
-我关注智能模型如何在真实约束下得到可靠评估并融入业务系统。这份主页整理了我的研究代码、工程实践与数据分析学习笔记。
+我关注多模态学习与智能检索在有限标注和实际工作流中的可靠评估。这里整理研究代码、工程案例与模型自学笔记，便于查看方法、复现步骤和已知限制。
 
 ## Selected work
 
-- **[KICP](https://github.com/GuHang2011/KICP)**: multimodal fake-news detection experiments with CLIP, prompt learning, co-attention and knowledge retrieval.
-- **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)**: a reproducible data pipeline and interactive dashboard using synthetic data. [Open the demo](https://guhang2011.github.io/frontend-data-lab/).
-- **[Engineering field notes](https://github.com/GuHang2011/engineering-notes)**: deployment, capacity testing, personal AI keys, file transfer and browser behavior, with practical checklists.
+| Work | Question / contribution | Read or try |
+| :--- | :--- | :--- |
+| **KICP · Research** | Multimodal fake-news detection with CLIP, learned prompts, co-attention and knowledge retrieval | [Research code & requirements](https://github.com/GuHang2011/KICP) |
+| **Counselor Workflow · Engineering case** | Role-based interaction, state transitions, version checks and retry contracts; a curated static demonstration | [Online demo](https://guhang2011.github.io/counselor-workflow-showcase/) · [Code & architecture](https://github.com/GuHang2011/counselor-workflow-showcase) |
+| **Frontend & Data Lab · Learning experiments** | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) · [Code & reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) |
+
+**Suggested reading:** try a demo → inspect the core code → read the verification steps and limitations. [Research reading guide](https://guhang2011.github.io/research/) · [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
 
 <details>
 <summary>Earlier coursework / 早期课程练习</summary>
