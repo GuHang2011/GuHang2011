@@ -1,11 +1,17 @@
 <p align="center">
-  <img src="assets/research-banner.svg" alt="Hang Gu — Multimodal learning, intelligent retrieval and data systems" width="100%" />
+  <picture>
+    <source media="(prefers-reduced-motion: reduce)" srcset="assets/research-still.png" />
+    <img src="assets/research-motion.gif" alt="Hang Gu — research and engineering: questions, experiments, useful systems" width="1400" height="430" />
+  </picture>
 </p>
+
+<p align="center"><sub><a href="assets/research-still.png">静态横幅 / Static banner</a> · <a href="assets/README.md">原创动画 / Behind the animation</a></sub></p>
 
 <p align="center">
   <a href="https://guhang2011.github.io/">Academic portfolio</a> ·
   <a href="https://guhang2011.github.io/#research">Research</a> ·
-  <a href="https://github.com/GuHang2011/frontend-data-lab">Code & notes</a>
+  <a href="https://github.com/GuHang2011/frontend-data-lab">Code & notes</a> ·
+  <a href="https://github.com/GuHang2011/engineering-notes">Engineering field notes</a>
 </p>
 
 ## About
@@ -20,14 +26,33 @@ Before moving into higher education, I worked in frontend engineering, including
 
 ## Selected work
 
-| Project | Focus | Explore |
-| :--- | :--- | :--- |
-| **KICP** | Multimodal fake-news detection experiments with CLIP, prompt learning, co-attention and knowledge retrieval | [Research code](https://github.com/GuHang2011/KICP) |
-| **Frontend & Data Lab** | A reproducible learning example connecting a data pipeline with an interactive dashboard; synthetic data only | [Code & notes](https://github.com/GuHang2011/frontend-data-lab) · [Demo](https://guhang2011.github.io/frontend-data-lab/) |
-| **Machine learning coursework** | Earlier Jupyter notebooks from machine learning for data science | [WQD7006](https://github.com/GuHang2011/WQD7006) |
-| **Data science foundations** | Earlier R-based data science exercises | [introdatascience](https://github.com/GuHang2011/introdatascience) |
+- **[KICP](https://github.com/GuHang2011/KICP)**: multimodal fake-news detection experiments with CLIP, prompt learning, co-attention and knowledge retrieval.
+- **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)**: a reproducible data pipeline and interactive dashboard using synthetic data. [Open the demo](https://guhang2011.github.io/frontend-data-lab/).
+- **[Engineering field notes](https://github.com/GuHang2011/engineering-notes)**: deployment, capacity testing, personal AI keys, file transfer and browser behavior, with practical checklists.
+
+<details>
+<summary>Earlier coursework / 早期课程练习</summary>
+
+- [WQD7006](https://github.com/GuHang2011/WQD7006): historical Python exercises in data collection, regional aggregation and visualization.
+- [introdatascience](https://github.com/GuHang2011/introdatascience): early R exercises in extraction, data cleaning and JSON serialization.
+
+</details>
 
 The learning lab is a newly assembled educational example. It is separate from employer software and research experiments. KICP contains research code; its README describes the external data and assets required to run it.
+
+## Engineering field notes / 工程实践
+
+从本地高校资料归档与协作项目整理的原创笔记，记录设计取舍、验证结果和待完成的工作。附上线、容量测试与个人 AI 接入模板。
+
+| Start with a question | Read / Use |
+| :--- | :--- |
+| “500 人在线”到底验证了什么？ | [容量复盘](https://github.com/GuHang2011/engineering-notes/blob/main/notes/capacity-testing.md) · [测试报告模板](https://github.com/GuHang2011/engineering-notes/blob/main/templates/capacity-report.md) |
+| 每个账号如何使用自己的 AI？ | [密钥与模型接入](https://github.com/GuHang2011/engineering-notes/blob/main/notes/personal-ai-keys.md) · [验收表](https://github.com/GuHang2011/engineering-notes/blob/main/templates/ai-provider-checklist.md) |
+| 从开发机到学校服务器还差什么？ | [部署笔记](https://github.com/GuHang2011/engineering-notes/blob/main/notes/campus-system-deployment.md) · [发布检查表](https://github.com/GuHang2011/engineering-notes/blob/main/templates/release-checklist.md) |
+
+[全部 6 篇笔记 / All notes](https://github.com/GuHang2011/engineering-notes) · [官方资料导航 / Official reading](https://github.com/GuHang2011/engineering-notes/blob/main/resources/official-reading.md)
+
+These are original notes and reusable checklists, with explicit testing limits. Linked references stay on their official sites; private product code and user data are not published here.
 
 ## Research
 
@@ -50,4 +75,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Updated September 2026. See the <a href="https://guhang2011.github.io/">portfolio</a> for project context and current research status.</sub>
+<sub>Profile and engineering notes updated October 2026. Research status is carried over from September 2026; see the <a href="https://guhang2011.github.io/">portfolio</a> for context.</sub>
