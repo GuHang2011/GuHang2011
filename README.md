@@ -54,6 +54,22 @@ The learning lab is a newly assembled educational example. It is separate from e
 
 These are original notes and reusable checklists, with explicit testing limits. Linked references stay on their official sites; private product code and user data are not published here.
 
+<details>
+<summary>上传系统界面预览 / Upload system preview</summary>
+
+来自本地 Edge/WebKit 自动化测试夹具的合成界面截图，仅用于展示布局和功能状态，不包含真实账号、API Key 或用户文件。
+
+<table>
+  <tr>
+    <td><a href="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/archive-center-desktop.png"><img src="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/archive-center-desktop.png" alt="资料归档中心与上传成功状态" width="280"></a></td>
+    <td><a href="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/workbench-desktop.png"><img src="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/workbench-desktop.png" alt="系统工作台与任务概览" width="280"></a></td>
+    <td><a href="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/ai-settings-desktop.png"><img src="https://raw.githubusercontent.com/GuHang2011/engineering-notes/main/screenshots/ai-settings-desktop.png" alt="个人 AI 配置页面" width="280"></a></td>
+  </tr>
+</table>
+
+[查看完整截图目录和说明](https://github.com/GuHang2011/engineering-notes/tree/main/screenshots)
+</details>
+
 ## Research
 
 - **Low-resource multimodal fake-news detection** — frozen CLIP adaptation, token-level fusion, and data-artifact analysis. Manuscript in journal resubmission.
