@@ -13,28 +13,30 @@ Lecturer · MSc in Computer Science (Data Science), Universiti Malaya
 
 <p align="center">
   <a href="https://guhang2011.github.io/">Academic portfolio</a> ·
-  <a href="https://guhang2011.github.io/#research">Research</a> ·
-  <a href="https://github.com/GuHang2011/frontend-data-lab">Code & notes</a> ·
-  <a href="https://github.com/GuHang2011/engineering-notes">Engineering field notes</a>
+  <a href="https://guhang2011.github.io/research/statement.html">Research brief</a> ·
+  <a href="https://guhang2011.github.io/research/cv.html">Academic CV</a> ·
+  <a href="mailto:guhang2011@126.com">guhang2011@126.com</a>
 </p>
 
 I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏财经职业技术学院**, with an MSc in Computer Science (Data Science) from **Universiti Malaya** and a background in frontend engineering.
 
-**Research focus:** multimodal learning, reliable evaluation with limited labels, and intelligent retrieval. I connect these interests with readable software and reproducible data experiments.
+**Research focus:** reliable multimodal learning with limited labels, frozen vision-language adaptation, validation sensitivity and data artifacts. My frontend and data-engineering experience supports readable implementations and reproducible evaluation.
 
-我关注多模态学习与智能检索在有限标注和实际工作流中的可靠评估。这里整理研究代码、工程案例与模型自学笔记，便于查看方法、复现步骤和已知限制。
+我关注有限标注下的可靠多模态学习、冻结视觉语言表征适配与验证敏感性。前端和数据工程经历支撑研究实现与复查；这里整理代码、验证记录和方法边界。
 
 ## Research
 
-| Research question | Approach | Status as of September 2026 |
-| :--- | :--- | :--- |
-| **Low-resource multimodal fake-news detection** | Frozen CLIP adaptation, token-level fusion and data-artifact analysis | Manuscript in journal resubmission |
-| **Validation sensitivity in limited-label news classification** | Model selection and paired validation sampling | Submitted to **DASFAA 2027** |
-| **Vision-language multimodal behavior prediction** | Visual, language and temporal information | Accepted at **ISCAIT 2026** |
+| Research question | Approach | Authorship | Status as of September 2026 |
+| :--- | :--- | :--- | :--- |
+| **FCP · Low-resource multimodal fake-news detection** | Frozen CLIP adaptation, token-level bidirectional co-attention, cosine prototypes and data-artifact analysis | **First author** | Journal resubmission: *International Journal of Machine Learning and Cybernetics* |
+| **Validation sensitivity in limited-label news classification** | Model selection and paired validation sampling | Order not stated in CV | Submitted to **DASFAA 2027** |
+| **Vision-language multimodal behavior prediction** | VideoMAE, DistilBERT, cross-attention and LSTM temporal modeling | **First author** | Accepted at **ISCAIT 2026** |
+
+Authorship and statuses above follow the September 2026 CV. The October portfolio update does not establish a new publication status or independently recheck experimental results.
 
 My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adolescents*, used R and Bayesian networks to study conditional relationships in clinical data.
 
-[Research overview](https://guhang2011.github.io/#research) · [Research reading guide](https://guhang2011.github.io/research/)
+[Research brief · Discussion draft](https://guhang2011.github.io/research/statement.html) · [Code & verification evidence](https://guhang2011.github.io/research/#evidence) · [Full academic CV](https://guhang2011.github.io/research/cv.html)
 
 ## Selected work
 
@@ -110,4 +112,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile and engineering notes updated October 2026. Research status is carried over from September 2026; see the <a href="https://guhang2011.github.io/">portfolio</a> for context.</sub>
+<sub>Profile updated 15 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
