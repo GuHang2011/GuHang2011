@@ -27,6 +27,7 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 | Work | Question / contribution | Read or try |
 | :--- | :--- | :--- |
 | **KICP · Research** | Multimodal fake-news detection with CLIP, learned prompts, co-attention and knowledge retrieval | [Research code & requirements](https://github.com/GuHang2011/KICP) |
+| **KAPT · Reproducibility learning** | Curated KANO-based prompt components, validated early stopping and sample-aligned probability ensembles; synthetic examples | [Code & source attribution](https://github.com/GuHang2011/KAPT) · [Case & early-stopping replay](https://guhang2011.github.io/cases/kapt/) |
 | **Counselor Workflow · Engineering case** | Role-based interaction, state transitions, version checks and retry contracts; a curated static demonstration | [Online demo](https://guhang2011.github.io/counselor-workflow-showcase/) · [Code & architecture](https://github.com/GuHang2011/counselor-workflow-showcase) |
 | **Frontend & Data Lab · Learning experiments** | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) · [Code & reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) |
 
