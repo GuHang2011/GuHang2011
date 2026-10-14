@@ -1,3 +1,7 @@
+# Hang Gu · 顾航
+
+Lecturer · MSc in Computer Science (Data Science), Universiti Malaya
+
 <p align="center">
   <picture>
     <source media="(prefers-reduced-motion: reduce)" srcset="assets/research-still.png" />
@@ -14,24 +18,38 @@
   <a href="https://github.com/GuHang2011/engineering-notes">Engineering field notes</a>
 </p>
 
-## About
-
 I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏财经职业技术学院**, with an MSc in Computer Science (Data Science) from **Universiti Malaya** and a background in frontend engineering.
 
 **Research focus:** multimodal learning, reliable evaluation with limited labels, and intelligent retrieval. I connect these interests with readable software and reproducible data experiments.
 
 我关注多模态学习与智能检索在有限标注和实际工作流中的可靠评估。这里整理研究代码、工程案例与模型自学笔记，便于查看方法、复现步骤和已知限制。
 
+## Research
+
+| Research question | Approach | Status as of September 2026 |
+| :--- | :--- | :--- |
+| **Low-resource multimodal fake-news detection** | Frozen CLIP adaptation, token-level fusion and data-artifact analysis | Manuscript in journal resubmission |
+| **Validation sensitivity in limited-label news classification** | Model selection and paired validation sampling | Submitted to **DASFAA 2027** |
+| **Vision-language multimodal behavior prediction** | Visual, language and temporal information | Accepted at **ISCAIT 2026** |
+
+My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adolescents*, used R and Bayesian networks to study conditional relationships in clinical data.
+
+[Research overview](https://guhang2011.github.io/#research) · [Research reading guide](https://guhang2011.github.io/research/)
+
 ## Selected work
 
-| Work | Question / contribution | Read or try |
+| Work | Focus and scope | Read / verify / try |
 | :--- | :--- | :--- |
-| **KICP · Research** | Multimodal fake-news detection with CLIP, learned prompts, co-attention and knowledge retrieval | [Research code & requirements](https://github.com/GuHang2011/KICP) |
-| **KAPT · Reproducibility learning** | Curated KANO-based prompt components, validated early stopping and sample-aligned probability ensembles; synthetic examples | [Code & source attribution](https://github.com/GuHang2011/KAPT) · [Case & early-stopping replay](https://guhang2011.github.io/cases/kapt/) |
-| **Counselor Workflow · Engineering case** | Role-based interaction, state transitions, version checks and retry contracts; a curated static demonstration | [Online demo](https://guhang2011.github.io/counselor-workflow-showcase/) · [Code & architecture](https://github.com/GuHang2011/counselor-workflow-showcase) |
-| **Frontend & Data Lab · Learning experiments** | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) · [Code & reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) |
+| **[KICP](https://github.com/GuHang2011/KICP)** · Research | CLIP, learned prompts, co-attention and knowledge retrieval for multimodal fake-news detection | [Code & run requirements](https://github.com/GuHang2011/KICP#readme) |
+| **[KAPT](https://github.com/GuHang2011/KAPT)** · Reproducibility learning | Curated **KANO-based** prompt components, validated early stopping and sample-aligned probability ensembles; synthetic examples | [Reading & source attribution](https://github.com/GuHang2011/KAPT/blob/main/REVIEWER_ENTRY.md) · [Reproduction](https://github.com/GuHang2011/KAPT/blob/main/docs/reproduction.md) · [Early-stopping replay](https://guhang2011.github.io/cases/kapt/) |
+| **[Counselor Workflow](https://github.com/GuHang2011/counselor-workflow-showcase)** · Engineering case | Role-based interaction, state transitions, version checks and retry contracts; curated static demonstration | [Architecture & scope](https://github.com/GuHang2011/counselor-workflow-showcase#readme) · [Online demo](https://guhang2011.github.io/counselor-workflow-showcase/) |
+| **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)** · Learning experiments | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) · [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) |
 
-**Suggested reading:** try a demo → inspect the core code → read the verification steps and limitations. [Research reading guide](https://guhang2011.github.io/research/) · [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
+**Reading path:** research question → core code → verification steps and limitations → interactive case. [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
+
+**18-second project walkthroughs / 项目动画：** [Early stopping · 模型早停](https://guhang2011.github.io/#film-kapt) · [Data quality audit · 数据质量审计](https://guhang2011.github.io/#film-data). Silent animations generated from the demo logic with synthetic data; captions and interactive experiments are available on the site.
+
+The learning lab is a newly assembled educational example. It is separate from employer software and research experiments. KICP contains research code; its README describes the external data and assets required to run it. KAPT preserves KANO source attribution and documents the scope of its component tests.
 
 <details>
 <summary>Earlier coursework / 早期课程练习</summary>
@@ -41,11 +59,14 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 </details>
 
-The learning lab is a newly assembled educational example. It is separate from employer software and research experiments. KICP contains research code; its README describes the external data and assets required to run it.
-
 ## Engineering field notes / 工程实践
 
 从本地高校资料归档与协作项目整理的原创笔记，记录设计取舍、验证结果和待完成的工作。附上线、容量测试与个人 AI 接入模板。
+
+[全部 6 篇笔记 / All notes](https://github.com/GuHang2011/engineering-notes) · [官方资料导航 / Official reading](https://github.com/GuHang2011/engineering-notes/blob/main/resources/official-reading.md)
+
+<details>
+<summary>Design decisions, validation and reusable checklists / 设计取舍与验证</summary>
 
 | Start with a question | Read / Use |
 | :--- | :--- |
@@ -53,9 +74,9 @@ The learning lab is a newly assembled educational example. It is separate from e
 | 每个账号如何使用自己的 AI？ | [密钥与模型接入](https://github.com/GuHang2011/engineering-notes/blob/main/notes/personal-ai-keys.md) · [验收表](https://github.com/GuHang2011/engineering-notes/blob/main/templates/ai-provider-checklist.md) |
 | 从开发机到学校服务器还差什么？ | [部署笔记](https://github.com/GuHang2011/engineering-notes/blob/main/notes/campus-system-deployment.md) · [发布检查表](https://github.com/GuHang2011/engineering-notes/blob/main/templates/release-checklist.md) |
 
-[全部 6 篇笔记 / All notes](https://github.com/GuHang2011/engineering-notes) · [官方资料导航 / Official reading](https://github.com/GuHang2011/engineering-notes/blob/main/resources/official-reading.md)
-
 These are original notes and reusable checklists, with explicit testing limits. Linked references stay on their official sites; private product code and user data are not published here.
+
+</details>
 
 <details>
 <summary>上传系统界面预览 / Upload system preview</summary>
@@ -73,17 +94,10 @@ These are original notes and reusable checklists, with explicit testing limits. 
 [查看完整截图目录和说明](https://github.com/GuHang2011/engineering-notes/tree/main/screenshots)
 </details>
 
-## Research
-
-- **Low-resource multimodal fake-news detection** — frozen CLIP adaptation, token-level fusion, and data-artifact analysis. Manuscript in journal resubmission.
-- **Validation sensitivity in limited-label news classification** — model selection and paired validation sampling. Submitted to **DASFAA 2027**.
-- **Vision-language multimodal behavior prediction** — visual, language and temporal information. Accepted at **ISCAIT 2026**.
-
-My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adolescents*, used R and Bayesian networks to study conditional relationships in clinical data.
-
-[Read the research overview →](https://guhang2011.github.io/#research)
-
 ## Engineering & teaching
+
+<details>
+<summary>Applied experience and teaching / 工程与教学经历</summary>
 
 - **Intelligent applications:** document parsing, entity extraction, semantic retrieval and RAG workflows.
 - **Frontend systems:** Vue / React, TypeScript, dynamic forms, interface contracts, accessibility and performance.
@@ -91,6 +105,8 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 - **Teaching:** computing courses and practical projects spanning data collection, storage, analysis and presentation.
 
 Recent applied work includes an ongoing AI contract-management project, an ongoing intelligent information-retrieval project, and a completed modular administrative-dashboard project. These are described as experience; their proprietary source code is not part of this profile.
+
+</details>
 
 ---
 
