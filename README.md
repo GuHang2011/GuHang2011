@@ -44,6 +44,7 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 | :--- | :--- | :--- |
 | **[KICP](https://github.com/GuHang2011/KICP)** · Research | CLIP, learned prompts, co-attention and knowledge retrieval for multimodal fake-news detection | [Code & run requirements](https://github.com/GuHang2011/KICP#readme) |
 | **[KAPT](https://github.com/GuHang2011/KAPT)** · Reproducibility learning | Curated **KANO-based** prompt components, validated early stopping and sample-aligned probability ensembles; synthetic examples | [Reading & source attribution](https://github.com/GuHang2011/KAPT/blob/main/REVIEWER_ENTRY.md) · [Reproduction](https://github.com/GuHang2011/KAPT/blob/main/docs/reproduction.md) · [Early-stopping replay](https://guhang2011.github.io/cases/kapt/) |
+| **[Silk Road Intelligence](https://guhang2011.github.io/cases/silkroad/)** · Teaching engineering | Cross-border order workflow, stock consistency, permission scopes and simulated fulfillment; adapted from an existing college application | [Screenshot gallery](https://guhang2011.github.io/cases/silkroad/#screenshots) · [Engineering notes](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md) |
 | **[Counselor Workflow](https://github.com/GuHang2011/counselor-workflow-showcase)** · Engineering case | Role-based interaction, state transitions, version checks and retry contracts; curated static demonstration | [Architecture & scope](https://github.com/GuHang2011/counselor-workflow-showcase#readme) · [Online demo](https://guhang2011.github.io/counselor-workflow-showcase/) |
 | **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)** · Learning experiments | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) · [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) |
 
@@ -58,6 +59,24 @@ The learning lab is a newly assembled educational example. It is separate from e
 
 - [WQD7006](https://github.com/GuHang2011/WQD7006): historical Python exercises in data collection, regional aggregation and visualization.
 - [introdatascience](https://github.com/GuHang2011/introdatascience): early R exercises in extraction, data cleaning and JSON serialization.
+
+</details>
+
+<details>
+<summary>丝路智链 · 桌面与手机界面 / Silk Road Intelligence gallery</summary>
+
+从既有学院应用改造的跨境订单教学案例，展示中哈合作主题登录、营销审核、订单台账与物流仿真。下列业务界面使用合成教学数据。
+
+<a href="https://guhang2011.github.io/cases/silkroad/"><img src="https://guhang2011.github.io/assets/silkroad/login-desktop.jpg" alt="丝路智链桌面登录页，登录字段为空" width="760"></a>
+
+<table><tr>
+<td><a href="https://guhang2011.github.io/cases/silkroad/#screenshots"><img src="https://guhang2011.github.io/assets/silkroad/orders-desktop.jpg" alt="订单管理界面，合成教学订单" width="370"></a></td>
+<td><a href="https://guhang2011.github.io/cases/silkroad/#screenshots"><img src="https://guhang2011.github.io/assets/silkroad/fulfillment-desktop.jpg" alt="物流履约界面，合成仿真任务" width="370"></a></td>
+</tr></table>
+
+[完整图集与设计说明](https://guhang2011.github.io/cases/silkroad/) · [状态、库存与幂等笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)
+
+既有后端报告记录 41 项通过（含共享账户基础测试），本次未重跑。支付与设备为仿真，来源和验证范围详见案例。
 
 </details>
 
