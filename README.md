@@ -15,6 +15,7 @@ Lecturer · MSc in Computer Science (Data Science), Universiti Malaya
   <a href="https://guhang2011.github.io/">Academic portfolio</a> ·
   <a href="https://guhang2011.github.io/research/statement.html">Research brief</a> ·
   <a href="https://guhang2011.github.io/research/cv.html">Academic CV</a> ·
+  <a href="https://guhang2011.github.io/notebook/">Learning notebook</a> ·
   <a href="mailto:guhang2011@126.com">guhang2011@126.com</a>
 </p>
 
@@ -80,6 +81,18 @@ The learning lab is a newly assembled educational example. It is separate from e
 
 </details>
 
+## Learning notebook / 学习与项目心得
+
+把代码中的问题整理成可以复查的笔记：为什么这样设计、如何验证、还有什么没有回答。**[在线阅读 6 篇双语笔记](https://guhang2011.github.io/notebook/)**，支持主题筛选、搜索和打印。
+
+| 主题 / Topic | 阅读入口 / Read |
+| :--- | :--- |
+| 模型学习 | [早停、样本对齐与集成](https://guhang2011.github.io/notebook/model-selection.html) · [提示学习的张量契约](https://guhang2011.github.io/notebook/prompt-contracts.html) |
+| 前端与数据 | [双语搜索、焦点与动态效果](https://guhang2011.github.io/notebook/accessible-interactions.html) · [数据清洗的质量契约](https://guhang2011.github.io/notebook/data-quality.html) |
+| 项目心得 | [订单幂等与库存一致性](https://guhang2011.github.io/notebook/order-idempotency.html) · [权限边界与可复查交付](https://guhang2011.github.io/notebook/permission-boundaries.html) |
+
+Compiled from public code and project documents on 17 October 2026, with AI-assisted drafting and translation. Each note separates source observations, teaching examples and proposed checks, with links to evidence; these are not new benchmark results or a historical lab diary.
+
 ## Engineering field notes / 工程实践
 
 从本地高校资料归档与协作项目整理的原创笔记，记录设计取舍、验证结果和待完成的工作。附上线、容量测试与个人 AI 接入模板。
@@ -131,4 +144,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 15 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 17 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
