@@ -12,7 +12,8 @@ Lecturer · MSc in Computer Science (Data Science), Universiti Malaya
 <p align="center"><sub><a href="assets/research-still.png">静态横幅 / Static banner</a> · <a href="assets/README.md">原创动画 / Behind the animation</a></sub></p>
 
 <p align="center">
-  <a href="https://guhang2011.github.io/">Academic portfolio</a> ·
+  <a href="https://guhang2011.github.io/">Engineering & research portfolio</a> ·
+  <a href="https://guhang2011.github.io/#engineering">Engineering highlights</a> ·
   <a href="https://guhang2011.github.io/research/statement.html">Research brief</a> ·
   <a href="https://guhang2011.github.io/research/cv.html">Academic CV</a> ·
   <a href="https://guhang2011.github.io/notebook/">Learning notebook</a> ·
@@ -21,9 +22,11 @@ Lecturer · MSc in Computer Science (Data Science), Universiti Malaya
 
 I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏财经职业技术学院**, with an MSc in Computer Science (Data Science) from **Universiti Malaya** and a background in frontend engineering.
 
-**Research focus:** reliable multimodal learning with limited labels, frozen vision-language adaptation, validation sensitivity and data artifacts. My frontend and data-engineering experience supports readable implementations and reproducible evaluation.
+**Engineering focus:** frontend systems, explicit workflow states, data-quality checks and verifiable delivery. The public cases connect implementation choices with code, interactive demonstrations and scoped verification records.
 
-我关注有限标注下的可靠多模态学习、冻结视觉语言表征适配与验证敏感性。前端和数据工程经历支撑研究实现与复查；这里整理代码、验证记录和方法边界。
+**Research interests:** reliable multimodal learning with limited labels, frozen vision-language adaptation, validation sensitivity and data artifacts.
+
+这里以工程技术为主：前端交互、工作流状态、数据质量与可复查交付。通过公开代码、项目演示和学习笔记说明设计取舍；同时保留有限标注下的多模态学习与模型评估研究记录。
 
 ## Research
 
@@ -50,6 +53,17 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 | **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)** · Learning experiments | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) · [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) |
 
 **Reading path:** research question → core code → verification steps and limitations → interactive case. [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
+
+## Engineering highlights / 工程亮点
+
+| Capability | What is visible in the public work |
+| :--- | :--- |
+| **Interface contracts** | Dynamic forms, role-scoped states, keyboard access, responsive layouts and browser-level checks. |
+| **Data quality** | Deterministic cleaning, annotation agreement, quarantine records, CSV/SQLite/JSON hand-offs and bounded crawling. |
+| **Model evaluation** | Baselines, validation sensitivity, threshold selection, confusion analysis and sample-aligned prediction ensembles. |
+| **Evidence-shaped delivery** | Release gates, artifact hashes, scope notes, synthetic fixtures and explicit “not rerun” boundaries. |
+
+**工程阅读顺序：** 需求问题 → 输入与状态契约 → 核心实现 → 定向检查 → 范围与限制。主页的 [Engineering lens](https://guhang2011.github.io/#engineering) 将这些能力映射到项目案例、在线实验和验证记录。
 
 **18-second project walkthroughs / 项目动画：** [Early stopping · 模型早停](https://guhang2011.github.io/#film-kapt) · [Data quality audit · 数据质量审计](https://guhang2011.github.io/#film-data). Silent animations generated from the demo logic with synthetic data; captions and interactive experiments are available on the site.
 
@@ -144,4 +158,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 17 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 19 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
