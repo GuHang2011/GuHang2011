@@ -30,13 +30,17 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 ## Research
 
-| Research question | Approach | Authorship | Status as of September 2026 |
+**24 October 2026 update:** the revised manuscript has been submitted to **Neurocomputing** and is not accepted. New title: *Where do fusion gains come from in low-resource multimodal fake news detection? Operating points, archive artifacts and frozen CLIP baselines*. [Study overview](https://guhang2011.github.io/research/fusion-audit.html) · [Updated doctoral research brief](https://guhang2011.github.io/research/statement.html).
+
+**研究主线：** 从“融合分数是否提高”走向“收益来源能否解释”。拟在多模态情绪识别中研究完整标注预算、证据感知预测和持续更新；这些是研究计划，尚非已完成结果。
+
+| Research question | Approach | Authorship | Recorded status |
 | :--- | :--- | :--- | :--- |
-| **FCP · Low-resource multimodal fake-news detection** | Frozen CLIP adaptation, token-level bidirectional co-attention, cosine prototypes and data-artifact analysis | **First author** | Journal resubmission: *International Journal of Machine Learning and Cybernetics* |
+| **[Where do fusion gains come from?](https://guhang2011.github.io/research/fusion-audit.html)** · Low-resource multimodal fake-news detection | Reanalysis of **344 archived training runs**: frozen-CLIP baselines, decision operating points and archive artifacts; FCP is studied, not claimed as a new architecture | **First author** | Revised and submitted to **Neurocomputing**; **not accepted** |
 | **Validation sensitivity in limited-label news classification** | Model selection and paired validation sampling | Order not stated in CV | Submitted to **DASFAA 2027** |
 | **Vision-language multimodal behavior prediction** | VideoMAE, DistilBERT, cross-attention and LSTM temporal modeling | **First author** | Accepted at **ISCAIT 2026** |
 
-Authorship and statuses above follow the September 2026 CV. The October portfolio update does not establish a new publication status or independently recheck experimental results.
+The Neurocomputing entry follows the revised manuscript and my status update on 24 October 2026. Other entries follow the supplied CV. The homepage update does not rerun research experiments.
 
 My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adolescents*, used R and Bayesian networks to study conditional relationships in clinical data.
 
@@ -162,4 +166,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 22 October 2026. Authorship and research status follow the September 2026 CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 24 October 2026. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
