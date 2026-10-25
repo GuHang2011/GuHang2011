@@ -24,7 +24,7 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 **Engineering focus:** frontend systems, explicit workflow states, data-quality checks and verifiable delivery. The public cases connect implementation choices with code, interactive demonstrations and scoped verification records.
 
-**Research interests:** reliable multimodal learning with limited labels, frozen vision-language adaptation, validation sensitivity and data artifacts.
+**Research direction:** multimodal learning and intelligent systems engineering. My proposed doctoral work studies **reliable multimodal emotion recognition** with limited labels, degraded inputs and expanding classes.
 
 这里以工程技术为主：前端交互、工作流状态、数据质量与可复查交付。通过公开代码、项目演示和学习笔记说明设计取舍；同时保留有限标注下的多模态学习与模型评估研究记录。
 
@@ -32,7 +32,20 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 **24 October 2026 update:** the revised manuscript has been submitted to **Neurocomputing** and is not accepted. New title: *Where do fusion gains come from in low-resource multimodal fake news detection? Operating points, archive artifacts and frozen CLIP baselines*. [Study overview](https://guhang2011.github.io/research/fusion-audit.html) · [Updated doctoral research brief](https://guhang2011.github.io/research/statement.html).
 
-**研究主线：** 从“融合分数是否提高”走向“收益来源能否解释”。拟在多模态情绪识别中研究完整标注预算、证据感知预测和持续更新；这些是研究计划，尚非已完成结果。
+**研究主线：** 从融合收益审计，走向资源受限交互中的可靠情绪识别。2026 年 10 月 25 日依据 RP 更新：三项方法研究递进展开，系统验证贯穿全过程；以下均为拟研究内容。
+
+| 拟研究 / Proposed study | 要回答的问题 / Question | 验证依据 / Planned evidence |
+| :--- | :--- | :--- |
+| **01 预算约束适配** · Budget-aware adaptation | 复杂融合是否值得额外成本？ | 训练、选模、校准统一预算；Macro-F1、UAR、配对重复与成本 |
+| **02 证据感知决策** · Evidence-aware decisions | 证据不足时何时请求复核？ | 质量、分歧、校准消融；相同风险或覆盖率下的比较 |
+| **03 遗忘约束更新** · Continual adaptation | 学习新类后旧类与置信质量能否保持？ | 固定回放；新旧类表现、遗忘、校准漂移与更新开销 |
+| **04 系统综合验证** · Integrated validation | 受损输入与运行异常下整套方法是否一致？ | 独立测试、端到端延迟、复核触发与版本回退 |
+
+[**Read the bilingual research plan / 阅读双语研究计划**](https://guhang2011.github.io/research/statement.html) · [Protocol checklist / 实验协议清单](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/research/protocol.md)
+
+**工程基础如何支撑研究：** 电信开户系统中的动态表单、状态机与接口契约，弱网应用中的离线缓存与恢复同步，为拟研究原型的缺失输入处理、异常恢复和版本一致性提供工程基础。[公开状态机示例](https://guhang2011.github.io/demos/react-workflow/)用于说明相关能力，属于独立学习演示。
+
+### Existing research / 已有研究记录
 
 | Research question | Approach | Authorship | Recorded status |
 | :--- | :--- | :--- | :--- |
@@ -166,4 +179,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 24 October 2026. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 25 October 2026; proposed questions follow the supplied RP. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
