@@ -70,6 +70,7 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 | **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)** · Learning experiments | Synthetic-data analytics, annotation agreement, bounded crawling and model-evaluation notes | [Reading map](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) · [Interactive lab](https://guhang2011.github.io/frontend-data-lab/) |
 | **[React Workflow Board](https://guhang2011.github.io/demos/react-workflow/)** · React learning project | Typed state transitions, version conflicts, retry paths and keyboard-readable controls; synthetic tasks | [Live React app](https://guhang2011.github.io/demos/react-workflow/) · [React source](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/demos/react-workflow/src/App.tsx) · [Project notes](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/demos/react-workflow/README.md) |
 | **[Schema-driven Form Studio](https://guhang2011.github.io/demos/low-code-form/)** · Low-code engineering example | Schema / renderer separation, field ordering, explicit validation and JSON inspection; synthetic request form | [Online studio](https://guhang2011.github.io/demos/low-code-form/) · [Schema](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/demos/low-code-form/schema.json) · [Design notes](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/demos/low-code-form/README.md) |
+| **[Reliability Gate Lab](https://guhang2011.github.io/demos/reliability-gates/)** · Multimodal reliability learning project | Synthetic quality, confidence, disagreement and missing-modality controls; shows auto-output, review and insufficient-evidence states | [Online lab](https://guhang2011.github.io/demos/reliability-gates/) · [Learning note](https://guhang2011.github.io/notebook/multimodal-gates.html) · [Research question](https://guhang2011.github.io/research/statement.html#rq-decision) |
 
 **Reading path:** research question → core code → verification steps and limitations → interactive case. [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
 
@@ -116,17 +117,17 @@ The learning lab is a newly assembled educational example. It is separate from e
 
 ## Learning notebook / 学习与项目心得
 
-把代码中的问题整理成可以复查的笔记：为什么这样设计、如何验证、还有什么没有回答。**[在线阅读 12 篇双语笔记](https://guhang2011.github.io/notebook/)**，支持主题筛选、搜索和打印。
+把代码中的问题整理成可以复查的笔记：为什么这样设计、如何验证、还有什么没有回答。**[在线阅读 15 篇双语笔记](https://guhang2011.github.io/notebook/)**，支持主题筛选、搜索和打印。
 
 | 主题 / Topic | 阅读入口 / Read |
 | :--- | :--- |
-| 近期学习 / Latest | [RAG 检索评估](https://guhang2011.github.io/notebook/rag-evaluation.html) · [异步请求竞态](https://guhang2011.github.io/notebook/async-interfaces.html) · [SQL 窗口分析](https://guhang2011.github.io/notebook/sql-windows.html) |
+| 近期学习 / Latest | [证据感知多模态决策](https://guhang2011.github.io/notebook/multimodal-gates.html) · [总标注预算](https://guhang2011.github.io/notebook/label-budget-ledger.html) · [模型版本回退](https://guhang2011.github.io/notebook/model-version-rollback.html) |
 | 模型学习 | [早停、样本对齐与集成](https://guhang2011.github.io/notebook/model-selection.html) · [提示学习的张量契约](https://guhang2011.github.io/notebook/prompt-contracts.html) |
 | 前端与数据 | [双语搜索、焦点与动态效果](https://guhang2011.github.io/notebook/accessible-interactions.html) · [数据清洗的质量契约](https://guhang2011.github.io/notebook/data-quality.html) |
 | 项目心得 | [订单幂等与库存一致性](https://guhang2011.github.io/notebook/order-idempotency.html) · [权限边界与可复查交付](https://guhang2011.github.io/notebook/permission-boundaries.html) |
 | 生成式模型与工程复现 | [数字人技术路线](https://guhang2011.github.io/notebook/digital-human.html) · [文生图原理与操作](https://guhang2011.github.io/notebook/text-to-image.html) · [版本、提示词与证据链](https://guhang2011.github.io/notebook/generative-workflow.html) |
 
-Collection updated on 20 October 2026 from public code and project documents, with AI-assisted drafting and translation. Each note separates source observations, teaching examples and proposed checks, with links to evidence; these are not new benchmark results or a historical lab diary.
+Collection updated on 25 October 2026 from public code and project documents, with AI-assisted drafting and translation. Each note separates source observations, teaching examples and proposed checks, with links to evidence; these are not new benchmark results or a historical lab diary.
 
 ## Engineering field notes / 工程实践
 
@@ -179,4 +180,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 25 October 2026; proposed questions follow the supplied RP. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 25 October 2026; the homepage now also includes a synthetic reliability-gate lab and three notes extending the proposed research protocol. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
