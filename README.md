@@ -64,6 +64,8 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 
 ## Selected work
 
+**早期工程项目整理 / Earlier frontend work:** [生产反馈 PC 端、移动端、思悦后台与电信固网平台](https://guhang2011.github.io/cases/early-frontend/) — 从旧简历整理业务场景、本人职责和技术栈；关联 Demo 为独立学习示例。[GitHub 项目文档](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/early-frontend/README.md)。
+
 | Work | Focus and scope | Read / verify / try |
 | :--- | :--- | :--- |
 | **[KICP](https://github.com/GuHang2011/KICP)** · Research | CLIP, learned prompts, co-attention and knowledge retrieval for multimodal fake-news detection | [Code & run requirements](https://github.com/GuHang2011/KICP#readme) |
@@ -76,6 +78,17 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 | **[Reliability Gate Lab](https://guhang2011.github.io/demos/reliability-gates/)** · Multimodal reliability learning project | Synthetic quality, confidence, disagreement and missing-modality controls; shows auto-output, review and insufficient-evidence states | [Online lab](https://guhang2011.github.io/demos/reliability-gates/) · [Learning note](https://guhang2011.github.io/notebook/multimodal-gates.html) · [Research question](https://guhang2011.github.io/research/statement.html#rq-decision) |
 
 **Reading path:** research question → core code → verification steps and limitations → interactive case. [Model self-study notes](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md).
+
+## Latest learning notes / 新增学习笔记
+
+[笔记集现有 19 篇](https://guhang2011.github.io/notebook/)，新增以下四篇：
+
+- [TFT 学习：预测发出时，哪些信息真的已知？](https://guhang2011.github.io/notebook/tft-information-boundary.html)
+- [GNN 学习：消息传递之前，先定义风险图](https://guhang2011.github.io/notebook/gnn-risk-graphs.html)
+- [时空数据验证：不能只按样本行随机切分](https://guhang2011.github.io/notebook/spatiotemporal-validation.html)
+- [项目心得：一个研究 Demo，交付时还应该带上什么？](https://guhang2011.github.io/notebook/research-demo-handoff.html)
+
+[可运行的 Python 示例与 10 项测试](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/notebook/examples/climate-protocol-README.md)。合成教学数据；不作为论文的实验结果。
 
 ## Engineering highlights / 工程亮点
 
@@ -120,7 +133,7 @@ The learning lab is a newly assembled educational example. It is separate from e
 
 ## Learning notebook / 学习与项目心得
 
-把代码中的问题整理成可以复查的笔记：为什么这样设计、如何验证、还有什么没有回答。**[在线阅读 15 篇双语笔记](https://guhang2011.github.io/notebook/)**，支持主题筛选、搜索和打印。
+把代码中的问题整理成可以复查的笔记：为什么这样设计、如何验证、还有什么没有回答。**[在线阅读 19 篇双语笔记](https://guhang2011.github.io/notebook/)**，支持主题筛选、搜索和打印。
 
 | 主题 / Topic | 阅读入口 / Read |
 | :--- | :--- |
@@ -130,7 +143,7 @@ The learning lab is a newly assembled educational example. It is separate from e
 | 项目心得 | [订单幂等与库存一致性](https://guhang2011.github.io/notebook/order-idempotency.html) · [权限边界与可复查交付](https://guhang2011.github.io/notebook/permission-boundaries.html) |
 | 生成式模型与工程复现 | [数字人技术路线](https://guhang2011.github.io/notebook/digital-human.html) · [文生图原理与操作](https://guhang2011.github.io/notebook/text-to-image.html) · [版本、提示词与证据链](https://guhang2011.github.io/notebook/generative-workflow.html) |
 
-Collection updated on 25 October 2026 from public code and project documents, with AI-assisted drafting and translation. Each note separates source observations, teaching examples and proposed checks, with links to evidence; these are not new benchmark results or a historical lab diary.
+Collection updated on 27 October 2026 from public code and project documents, with AI-assisted drafting and translation. Each note separates source observations, teaching examples and proposed checks, with links to evidence; these are not new benchmark results or a historical lab diary.
 
 ## Engineering field notes / 工程实践
 
@@ -183,4 +196,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 25 October 2026; the homepage now also includes a synthetic reliability-gate lab and three notes extending the proposed research protocol. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 27 October 2026; the homepage now also includes a synthetic reliability-gate lab and three notes extending the proposed research protocol. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
