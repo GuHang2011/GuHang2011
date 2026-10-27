@@ -30,6 +30,8 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 ## Research
 
+**27 October 2026 update / 研究更新：** **第一作者 / First author** — *Hybrid AI Framework for Multi-Hazard Climate Risk Governance in Renewable Energy-Water Nexus Systems*，已投稿 **Climate Risk Management**，**尚未录用 / submitted, not accepted**。围绕中国 30 个省份（2005—2024）的能源—水系统，以 TFT–GNN 结合时间建模与跨区域风险传播。[双语研究介绍与方法示意 / Study overview](https://guhang2011.github.io/research/climate-risk.html)。
+
 **24 October 2026 update:** the revised manuscript has been submitted to **Neurocomputing** and is not accepted. New title: *Where do fusion gains come from in low-resource multimodal fake news detection? Operating points, archive artifacts and frozen CLIP baselines*. [Study overview](https://guhang2011.github.io/research/fusion-audit.html) · [Updated doctoral research brief](https://guhang2011.github.io/research/statement.html).
 
 **研究主线：** 从融合收益审计，走向资源受限交互中的可靠情绪识别。2026 年 10 月 25 日依据 RP 更新：三项方法研究递进展开，系统验证贯穿全过程；以下均为拟研究内容。
@@ -49,11 +51,12 @@ I'm **Hang Gu (顾航)**, a lecturer and teaching section director at **江苏�
 
 | Research question | Approach | Authorship | Recorded status |
 | :--- | :--- | :--- | :--- |
+| **[Climate risk in renewable energy–water systems](https://guhang2011.github.io/research/climate-risk.html)** | TFT + GNN-CRP; temporal dependence and interregional propagation; 30 Chinese provinces, 2005–2024 | **First author / 第一作者** | Submitted to **Climate Risk Management**; **not accepted / 尚未录用** |
 | **[Where do fusion gains come from?](https://guhang2011.github.io/research/fusion-audit.html)** · Low-resource multimodal fake-news detection | Reanalysis of **344 archived training runs**: frozen-CLIP baselines, decision operating points and archive artifacts; FCP is studied, not claimed as a new architecture | **First author** | Revised and submitted to **Neurocomputing**; **not accepted** |
 | **Validation sensitivity in limited-label news classification** | Model selection and paired validation sampling | Order not stated in CV | Submitted to **DASFAA 2027** |
 | **Vision-language multimodal behavior prediction** | VideoMAE, DistilBERT, cross-attention and LSTM temporal modeling | **First author** | Accepted at **ISCAIT 2026** |
 
-The Neurocomputing entry follows the revised manuscript and my status update on 24 October 2026. Other entries follow the supplied CV. The homepage update does not rerun research experiments.
+The Neurocomputing entry follows the revised manuscript and my status update on 24 October 2026. The Climate Risk Management entry follows my abstract and first-author confirmation of 27 October 2026. Other entries follow the supplied CV. The homepage update does not rerun research experiments.
 
 My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adolescents*, used R and Bayesian networks to study conditional relationships in clinical data.
 
