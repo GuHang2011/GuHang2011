@@ -64,10 +64,27 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 
 ## Selected work
 
+<!-- shuyang-home:start -->
+### 沭阳之家 · Shuyang Home
+
+移动优先的老乡会员社区，支持会员与版主管理、活动定位签到、资源互换、图片／文件聊天、论坛语音和家乡特产订单。基于 **Vue 3 · uni-app · Spring Boot**，提供电脑网页、Android / iPhone H5 与微信小程序源码。
+
+[**源码与部署 / Source & setup**](https://github.com/GuHang2011/shuyang-home) · [**完整图集 / Screenshots**](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [**语音功能 / Forum audio**](https://github.com/GuHang2011/shuyang-home/blob/main/docs/论坛语音.md)
+
+<p align="center">
+  <a href="https://github.com/GuHang2011/shuyang-home"><img src="https://raw.githubusercontent.com/GuHang2011/shuyang-home/main/docs/screenshots/mobile-home.png" alt="沭阳之家手机首页：深蓝、米白与暖金配色，会员服务和天气入口" width="220" /></a>
+  <a href="https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/GuHang2011/shuyang-home/main/docs/screenshots/mobile-forum-audio.png" alt="沭阳之家论坛语音帖子与回复：使用合成提示音的隔离验收界面" width="220" /></a>
+</p>
+
+**验证 / Verification:** 50 项后端测试、5 项异步状态测试通过；Web、H5、小程序构建通过。当前为本地试点版本，小程序待真机验收与发布。语音截图使用合成测试数据。[验收记录 / Validation scope](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md)。
+<!-- shuyang-home:end -->
+
+
 **早期工程项目整理 / Earlier frontend work:** [生产反馈 PC 端、移动端、思悦后台与电信固网平台](https://guhang2011.github.io/cases/early-frontend/) — 从旧简历整理业务场景、本人职责和技术栈；关联 Demo 为独立学习示例。[GitHub 项目文档](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/early-frontend/README.md)。
 
 | Work | Focus and scope | Read / verify / try |
 | :--- | :--- | :--- |
+| **[Shuyang Home · 沭阳之家](https://github.com/GuHang2011/shuyang-home)** · Community engineering | Mobile-first Vue / uni-app community; membership, location check-in, moderated voice posts, private attachments and offline-settled specialty orders | [Source & setup](https://github.com/GuHang2011/shuyang-home#readme) · [Screenshots](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [Validation](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md) |
 | **[KICP](https://github.com/GuHang2011/KICP)** · Research | CLIP, learned prompts, co-attention and knowledge retrieval for multimodal fake-news detection | [Code & run requirements](https://github.com/GuHang2011/KICP#readme) |
 | **[KAPT](https://github.com/GuHang2011/KAPT)** · Reproducibility learning | Curated **KANO-based** prompt components, validated early stopping and sample-aligned probability ensembles; synthetic examples | [Reading & source attribution](https://github.com/GuHang2011/KAPT/blob/main/REVIEWER_ENTRY.md) · [Reproduction](https://github.com/GuHang2011/KAPT/blob/main/docs/reproduction.md) · [Early-stopping replay](https://guhang2011.github.io/cases/kapt/) |
 | **[Silk Road Intelligence](https://guhang2011.github.io/cases/silkroad/)** · Teaching engineering | Cross-border order workflow, stock consistency, permission scopes and simulated fulfillment; adapted from an existing college application | [Screenshot gallery](https://guhang2011.github.io/cases/silkroad/#screenshots) · [Engineering notes](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md) |
@@ -196,4 +213,4 @@ Recent applied work includes an ongoing AI contract-management project, an ongoi
 
 ---
 
-<sub>Profile updated 27 October 2026; the homepage now also includes a synthetic reliability-gate lab and three notes extending the proposed research protocol. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
+<sub>Profile updated 28 October 2026; Shuyang Home has been added with mobile screenshots, forum audio and scoped validation records; the homepage now also includes a synthetic reliability-gate lab and three notes extending the proposed research protocol. The Neurocomputing entry follows the revised manuscript and the author’s latest status update; other research states follow the supplied CV; see the <a href="https://guhang2011.github.io/">portfolio</a> for evidence and scope.</sub>
