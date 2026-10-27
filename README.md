@@ -62,21 +62,25 @@ My MSc thesis, *Dental Deformities Prediction Using Bayesian Networks among Adol
 
 [Research brief · Discussion draft](https://guhang2011.github.io/research/statement.html) · [Code & verification evidence](https://guhang2011.github.io/research/#evidence) · [Full academic CV](https://guhang2011.github.io/research/cv.html)
 
-## Selected work
+<a id="selected-work"></a>
+
+## Selected work / 精选项目
 
 <!-- shuyang-home:start -->
 ### 沭阳之家 · Shuyang Home
 
-移动优先的老乡会员社区，支持会员与版主管理、活动定位签到、资源互换、图片／文件聊天、论坛语音和家乡特产订单。基于 **Vue 3 · uni-app · Spring Boot**，提供电脑网页、Android / iPhone H5 与微信小程序源码。
+移动优先的老乡会员社区，支持会员与版主管理、活动定位签到、资源互换、图片／文件聊天、论坛语音和家乡特产订单；天气支持设备定位与网络城市估算。基于 **Vue 3 · uni-app · Spring Boot**，提供电脑网页、Android / iPhone H5 与微信小程序源码。
 
-[**源码与部署 / Source & setup**](https://github.com/GuHang2011/shuyang-home) · [**完整图集 / Screenshots**](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [**语音功能 / Forum audio**](https://github.com/GuHang2011/shuyang-home/blob/main/docs/论坛语音.md)
+[**申博作品集 / Portfolio**](https://guhang2011.github.io/#project-shuyang) · [**源码与部署 / Source & setup**](https://github.com/GuHang2011/shuyang-home) · [**完整图集 / Screenshots**](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [**语音功能 / Forum audio**](https://github.com/GuHang2011/shuyang-home/blob/main/docs/论坛语音.md)
 
 <p align="center">
   <a href="https://github.com/GuHang2011/shuyang-home"><img src="https://raw.githubusercontent.com/GuHang2011/shuyang-home/main/docs/screenshots/mobile-home.png" alt="沭阳之家手机首页：深蓝、米白与暖金配色，会员服务和天气入口" width="220" /></a>
   <a href="https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/GuHang2011/shuyang-home/main/docs/screenshots/mobile-forum-audio.png" alt="沭阳之家论坛语音帖子与回复：使用合成提示音的隔离验收界面" width="220" /></a>
 </p>
 
-**验证 / Verification:** 50 项后端测试、5 项异步状态测试通过；Web、H5、小程序构建通过。当前为本地试点版本，小程序待真机验收与发布。语音截图使用合成测试数据。[验收记录 / Validation scope](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md)。
+**验证 / Verification:** 60 项后端测试、17 个共享异步场景通过；Web、H5、小程序构建通过。当前为本地试点版本，小程序待真机验收与发布。语音截图使用合成测试数据。[验收记录 / Validation scope](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md)。
+
+[天气选城与网络定位截图 / Weather & location](https://github.com/GuHang2011/shuyang-home/blob/main/docs/screenshots/mobile-weather-city.png) · [会员欢迎界面 / Membership entry](https://github.com/GuHang2011/shuyang-home/blob/main/docs/screenshots/desktop-member-welcome.png)
 <!-- shuyang-home:end -->
 
 
