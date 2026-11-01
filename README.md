@@ -88,13 +88,15 @@
 
 ## 03 / 最近在整理的笔记
 
-- **[审阅 AI 辅助代码：先复现“旧响应覆盖新输入”](https://guhang2011.github.io/notebook/ai-code-race-review.html)** — 为什么加了防抖，页面仍可能显示过期结果。
-- **[审核失败之后：重试、刷新与重置是三条路径](https://guhang2011.github.io/notebook/workflow-recovery-review.html)** — 从失败类型出发设计恢复操作。
-- **[导入配置前，为什么必须保住旧表单](https://guhang2011.github.io/notebook/schema-import-review.html)** — 将校验与替换分开，避免错误配置破坏用户输入。
+**低代码专题：从表单配置到工程维护。**
 
-[全部学习笔记](https://guhang2011.github.io/notebook/) · [部署、容量与 AI 接入复盘](https://github.com/GuHang2011/engineering-notes) · [按主题阅读](docs/project-index.md#notes)
+- **[低代码表单：配置、用户输入和界面状态为什么要分开](https://guhang2011.github.io/notebook/low-code-state-layers.html)** — 改标题、调顺序、改类型，分别怎样处理用户输入。
+- **[低代码字段联动：隐藏、必填和权限不能混为一谈](https://guhang2011.github.io/notebook/low-code-rules.html)** — 从条件显示到提交规则，再到异步选项的响应归属。
+- **[低代码上线心得：配置也需要版本、迁移与回滚](https://guhang2011.github.io/notebook/low-code-release.html)** — 格式版本、业务修订、数据迁移和配置回退如何区分。
 
-<sub>笔记依据公开代码和项目记录整理，使用 AI 辅助起草与翻译；教学示例、实际验证和拟开展实验分别说明。</sub>
+[打开表单 Demo](https://guhang2011.github.io/demos/low-code-form/) · [全部学习笔记](https://guhang2011.github.io/notebook/) · [工程复盘仓库](https://github.com/GuHang2011/engineering-notes) · [按主题阅读](docs/project-index.md#notes)
+
+<sub>结合公开源码整理；字段联动、迁移和发布回滚为后续设计。笔记使用 AI 辅助起草与翻译，区分已有实现与拟验证项。</sub>
 
 ---
 

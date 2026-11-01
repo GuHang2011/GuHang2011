@@ -49,6 +49,15 @@
 
 ## 学习笔记：从一个问题开始
 
+### 低代码：配置、交互与交付
+
+- [低代码表单：配置、用户输入和界面状态为什么要分开](https://guhang2011.github.io/notebook/low-code-state-layers.html)
+- [低代码字段联动：隐藏、必填和权限不能混为一谈](https://guhang2011.github.io/notebook/low-code-rules.html)
+- [低代码上线心得：配置也需要版本、迁移与回滚](https://guhang2011.github.io/notebook/low-code-release.html)
+- [配置校验与稳定字段键](https://guhang2011.github.io/notebook/low-code-contracts.html) · [错误导入如何保住旧表单](https://guhang2011.github.io/notebook/schema-import-review.html)
+
+[配套表单 Demo](https://guhang2011.github.io/demos/low-code-form/)；联动、迁移与发布流程目前为扩展设计。
+
 ### 前端与 AI 辅助开发
 
 - [审阅 AI 辅助代码：先复现旧响应覆盖新输入](https://guhang2011.github.io/notebook/ai-code-race-review.html)
