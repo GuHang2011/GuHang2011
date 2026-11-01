@@ -1,24 +1,25 @@
-# About the profile animation
+# Profile artwork
 
-The profile banner is an original diagram of a research-to-engineering loop:
-questions, experiments, working systems, and feedback. It uses no stock video,
-external image service, copied illustration, or third-party footage.
+The current Overview uses two small, original SVG covers:
 
-- `research-motion.gif`: an eight-second loop. Text stays still; a short line
-  moves slowly around the diagram. There are no flashes or automatic audio.
-- `research-still.png`: the same composition without motion. The profile uses
-  this for reduced-motion preferences where the renderer supports the media
-  query, and always includes a direct static-image link.
-- `research-banner.svg`: the previous static banner, retained as an archive.
+- `profile-cover-light.svg`: flat blue artwork for a light reading surface.
+- `profile-cover-dark.svg`: the same composition for a dark system preference.
 
-GitHub README rendering supports an animated image without a video player or
-external playback site. On small screens the diagram is decorative; the name,
-research context and project links are also available as readable page text.
+The README uses a native `<picture>` element. Its cover is decorative: the person's name, engineering focus, project details and navigation remain selectable text in the README. The illustrations contain no scripts, external fonts, analytics or remotely generated statistics. Project screenshots are expandable so they do not dominate the first reading screen.
 
-## Rebuild
+## Earlier research animation
+
+The earlier research-to-engineering diagram is retained:
+
+- [research-motion.gif](research-motion.gif): an eight-second loop connecting questions, experiments, working systems and feedback. It has no flashes or automatic audio.
+- [research-still.png](research-still.png): the static version.
+- [research-banner.svg](research-banner.svg): the previous static banner.
+
+The Overview no longer loads this animation automatically. [View the animation](research-motion.gif) or its [static version](research-still.png).
+
+### Rebuild the archived animation
 
 Requirements: Node.js 20+, Playwright with Chromium, and FFmpeg on `PATH`.
-Install Playwright locally and its browser, then run:
 
 ```sh
 npm install --no-save --package-lock=false playwright@1.62.1
@@ -26,11 +27,6 @@ npx playwright install chromium
 node scripts/generate-banner.cjs
 ```
 
-The script creates the two raster assets and temporary frames in
-`.banner-build/`, which is ignored by Git. `BROWSER_CHANNEL` can select an
-installed Chromium channel such as `msedge`; `FFMPEG` can supply the executable
-path. Fonts use system families with fallbacks, so rendering may differ slightly
-between operating systems. Font files are not bundled or redistributed.
+The existing script creates the two raster assets and temporary frames in `.banner-build/`, which is ignored by Git. `BROWSER_CHANNEL` can select an installed Chromium channel such as `msedge`; `FFMPEG` can supply the executable path. Fonts use system families with fallbacks; font files are not bundled.
 
-The artwork and generator were created for this profile. No general reuse
-license is granted by this repository; contact the author before redistribution.
+Artwork was created for this profile. No general reuse license is granted by this repository; contact the author before redistribution.
