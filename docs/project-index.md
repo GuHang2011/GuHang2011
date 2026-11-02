@@ -34,6 +34,8 @@
 - **[KAPT](https://github.com/GuHang2011/KAPT)**：基于 KANO 的学习改造，保留上游来源；重点是提示组件、早停与样本对齐集成。[阅读入口](https://github.com/GuHang2011/KAPT/blob/main/REVIEWER_ENTRY.md) · [运行条件](https://github.com/GuHang2011/KAPT/blob/main/docs/reproduction.md) · [早停演示](https://guhang2011.github.io/cases/kapt/)。
 - **[Frontend & Data Lab](https://github.com/GuHang2011/frontend-data-lab)**：Python、SQL、数据标注一致性、有边界的爬虫与模型评估。[阅读地图](https://github.com/GuHang2011/frontend-data-lab/blob/main/REVIEWER_ENTRY.md) · [模型自学路线](https://github.com/GuHang2011/frontend-data-lab/blob/main/docs/modeling-reading-map.md)。
 
+[实际复算记录](https://guhang2011.github.io/research/reproducibility.html)：216 条少样本配置结果与参考一致，未重跑训练。
+
 ### 论文与研究计划
 
 - **Where do fusion gains come from in low-resource multimodal fake news detection? Operating points, archive artifacts and frozen CLIP baselines**：第一作者；修订后投稿 Neurocomputing，尚未录用。[解读](https://guhang2011.github.io/research/fusion-audit.html)。
@@ -46,6 +48,8 @@
 投稿状态按已提供信息整理，2026-11-02 更新页面不代表重新确认了期刊审稿进度。[完整简历](https://guhang2011.github.io/research/cv.html) · [导师阅读入口](https://guhang2011.github.io/research/reviewer-guide.html)。
 
 <a id="notes"></a>
+
+[起步实验协议](https://guhang2011.github.io/research/first-study.html)：有限预算下比较单模态与简单融合基线，属于尚未执行的研究计划。
 
 ## 学习笔记：从一个问题开始
 

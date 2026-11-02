@@ -79,12 +79,12 @@
 ## 02 / 研究记录
 
 **多模态虚假新闻检测** · 第一作者 · **Neurocomputing 已投稿，尚未录用**  
-修订稿重分析 344 次归档训练运行，考察冻结 CLIP 下的融合收益、决策工作点与数据伪线索。[研究解读](https://guhang2011.github.io/research/fusion-audit.html) · [结果重分析代码](https://github.com/GuHang2011/frozen-clip-fake-news-fusion)。公开预测和标签支持指标重算，完整训练与原始划分重建仍需额外材料。
+修订稿重分析 344 次归档训练运行，考察冻结 CLIP 下的融合收益、决策工作点与数据伪线索。[研究解读](https://guhang2011.github.io/research/fusion-audit.html) · [结果重分析代码](https://github.com/GuHang2011/frozen-clip-fake-news-fusion)。公开预测和标签支持指标重算；[11 月 2 日复算记录](https://guhang2011.github.io/research/reproducibility.html)中的 216 条结果与参考一致。完整训练与原始划分重建仍需额外材料。
 
 **能源—水系统气候风险** · 第一作者 · **Climate Risk Management 已投稿，尚未录用**  
 结合 TFT 与 GNN-CRP，研究中国 30 省 2005—2024 年的时间依赖与跨区域风险传播。[研究介绍](https://guhang2011.github.io/research/climate-risk.html)。当前入口提供摘要与方法说明。
 
-**拟博士研究：** 资源受限条件下的可靠多模态情绪识别，关注预算约束适配、证据不足时的决策，以及持续更新中的遗忘问题。[研究计划（讨论稿）](https://guhang2011.github.io/research/statement.html) · [其他研究与学位论文](docs/project-index.md#research)
+**拟博士研究：** 资源受限条件下的可靠多模态情绪识别，关注预算约束适配、证据不足时的决策，以及持续更新中的遗忘问题。[研究计划（讨论稿）](https://guhang2011.github.io/research/statement.html) · [起步实验方案](https://guhang2011.github.io/research/first-study.html) · [其他研究与学位论文](docs/project-index.md#research)
 
 ## 03 / 最近在整理的笔记
 
