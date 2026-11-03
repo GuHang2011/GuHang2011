@@ -6,8 +6,8 @@
 
 ## 系统开发
 
-- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
-- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：图像检测、结果筛选、复核与记录导出。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
+- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；v1.6.0 增加事项、通知与互助办结。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
+- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：图像检测、结果复核、样本批次、复查待办与备份冲突处理。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
 - **[辅导员工作流案例](https://github.com/GuHang2011/counselor-workflow-showcase)**：角色交互、状态转换、版本检查和重试契约。[静态演示](https://guhang2011.github.io/counselor-workflow-showcase/)，不包含真实学生数据。
 - **[丝路智链](https://guhang2011.github.io/cases/silkroad/)**：从既有学院应用改造的跨境订单教学案例，关注状态、库存、权限与幂等。[界面图集](https://guhang2011.github.io/cases/silkroad/#screenshots) · [一致性笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)。支付与设备为仿真。
 - **[早期前端工程经历](https://guhang2011.github.io/cases/early-frontend/)**：生产反馈 PC / 移动端、思悦后台与电信固网平台；按原简历整理场景、职责和技术栈，关联 Demo 为独立学习示例。
@@ -90,6 +90,13 @@
 - [校园系统部署](https://github.com/GuHang2011/engineering-notes/blob/main/notes/campus-system-deployment.md) · [发布检查表](https://github.com/GuHang2011/engineering-notes/blob/main/templates/release-checklist.md)
 
 [在线笔记目录](https://guhang2011.github.io/notebook/)支持主题筛选、搜索和打印。[官方资料导航](https://github.com/GuHang2011/engineering-notes/blob/main/resources/official-reading.md)。
+
+## 教学与资料整理
+
+- [AI 与数据技术课程资料](https://github.com/GuHang2011/ai-course-materials)：六份课程文字稿；按 AI 应用、数据计算、小屏 GUI 与行业场景阅读。[资料地图](https://guhang2011.github.io/teaching/) · [阅读指南](https://github.com/GuHang2011/ai-course-materials/blob/main/docs/READING_GUIDE.md)。
+- [文件整理与办公 skills 导航](https://github.com/GuHang2011/file-organization-notes)：整理方法、来源索引和[操作核对表](https://github.com/GuHang2011/file-organization-notes/blob/main/docs/REVIEW_CHECKLIST.md)。
+
+材料整理体现知识组织与工程表达；保留第三方归属，不把课程参考稿、工具导航列为原创研究成果。
 
 ## 早期课程与站点源码
 
