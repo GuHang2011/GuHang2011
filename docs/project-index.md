@@ -91,6 +91,11 @@
 
 [在线笔记目录](https://guhang2011.github.io/notebook/)支持主题筛选、搜索和打印。[官方资料导航](https://github.com/GuHang2011/engineering-notes/blob/main/resources/official-reading.md)。
 
+## 文件盘点与工程复盘
+
+- [文件盘点工具](https://github.com/GuHang2011/windows-file-organization-toolkit)：[交互案例](https://guhang2011.github.io/cases/file-inventory/) · [统计范围心得](https://guhang2011.github.io/notebook/inventory-scope-review.html)。
+- [事项权限](https://guhang2011.github.io/notebook/work-center-boundaries.html) · [通知已读状态](https://guhang2011.github.io/notebook/notification-read-state.html) · [备份恢复](https://guhang2011.github.io/notebook/backup-restore-review.html)。
+
 ## 教学与资料整理
 
 - [AI 与数据技术课程资料](https://github.com/GuHang2011/ai-course-materials)：六份课程文字稿；按 AI 应用、数据计算、小屏 GUI 与行业场景阅读。[资料地图](https://guhang2011.github.io/teaching/) · [阅读指南](https://github.com/GuHang2011/ai-course-materials/blob/main/docs/READING_GUIDE.md)。

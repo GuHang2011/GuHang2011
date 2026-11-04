@@ -59,7 +59,7 @@
 
 `JavaScript` `Vite` `Flask` `YOLO 接口`
 
-把图片、检测框、置信度和复核记录放在同一个工作台。打开示例，**保存巡检记录、安排复查、导出备份并检查导入冲突**，体验模型结果如何进入人工操作流程。
+把图片、检测框、置信度和复核记录放在同一个工作台。**v1.3.1 改进详情分区、草稿保留与手机记录卡片**；支持逐区域复核、报告打印、备份冲突检查和可选 AI 接口。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
 
 [打开 Demo](https://guhang2011.github.io/fieldlens/) · [源码与本地接入](https://github.com/GuHang2011/fieldlens) · [验证范围](https://github.com/GuHang2011/fieldlens/blob/main/docs/VALIDATION.md)
 
@@ -71,6 +71,16 @@
 <a href="https://guhang2011.github.io/fieldlens/"><img src="https://raw.githubusercontent.com/GuHang2011/fieldlens/main/docs/workspace.png" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
 
 </details>
+
+### 文件盘点工具 · 可复现的小型工程
+
+`Python` `CLI` `unittest` `GitHub Actions`
+
+用明确的目录排除规则盘点元数据，处理同名分组冲突、报告重复计入和读取失败。提供微型合成样例、15 项测试及 Windows / Ubuntu CI。
+
+[源码与用法](https://github.com/GuHang2011/windows-file-organization-toolkit) · [交互样例与实现取舍](https://guhang2011.github.io/cases/file-inventory/)
+
+<sub>不移动或删除源文件；逻辑长度不是实际占用，不提供大目录性能结论。</sub>
 
 **更多动手体验：** [配置驱动表单](https://guhang2011.github.io/demos/low-code-form/) · [数据质量实验](https://guhang2011.github.io/demos/data-preparation/) · [多模态决策门控](https://guhang2011.github.io/demos/reliability-gates/)
 
@@ -88,6 +98,15 @@
 
 ## 03 / 最近在整理的笔记
 
+**最新工程复盘：从工具和业务代码中找具体问题。**
+
+- [目录盘点：先定义范围，再看数字](https://guhang2011.github.io/notebook/inventory-scope-review.html)
+- [事项汇总之后，权限还要逐项检查](https://guhang2011.github.io/notebook/work-center-boundaries.html)
+- [已读不等于办完](https://guhang2011.github.io/notebook/notification-read-state.html) · [备份恢复的差异与冲突](https://guhang2011.github.io/notebook/backup-restore-review.html)
+
+<details>
+<summary>继续阅读低代码专题</summary>
+
 **低代码专题：从表单配置到工程维护。**
 
 - **[低代码表单：配置、用户输入和界面状态为什么要分开](https://guhang2011.github.io/notebook/low-code-state-layers.html)** — 改标题、调顺序、改类型，分别怎样处理用户输入。
@@ -98,6 +117,8 @@
 
 <sub>结合公开源码整理；字段联动、迁移和发布回滚为后续设计。笔记使用 AI 辅助起草与翻译，区分已有实现与拟验证项。</sub>
 
+</details>
+
 ## 04 / 教学与资料整理
 
 - **[AI 与数据技术课程资料](https://github.com/GuHang2011/ai-course-materials)**：6 份文字参考稿，覆盖 AI 应用、大数据、Spark、腕表 GUI 与制造业案例。[在线阅读地图](https://guhang2011.github.io/teaching/)提供主题入口与练习建议。
@@ -107,4 +128,4 @@
 
 ---
 
-<sub>内容整理于 2026-11-03。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>
+<sub>内容整理于 2026-11-04。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>
