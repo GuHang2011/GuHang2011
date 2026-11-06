@@ -19,6 +19,18 @@
 
 ## 01 / 代表项目
 
+### MeteoFormer · 区域气象预测工作台
+
+`Vue 3` `TypeScript` `FastAPI` `PyTorch`
+
+以地图为主视图，探索 **5 类气象要素与 24 小时预报**。切换时效、点击网格查看单点曲线，下载 PNG / NetCDF；模型实验室展示实际训练日志与基线评估。
+
+[打开 Demo](https://guhang2011.github.io/meteoformer-weather-system/) · [源码与本地运行](https://github.com/GuHang2011/meteoformer-weather-system) · [设计与实现范围](https://github.com/GuHang2011/meteoformer-weather-system/blob/main/guides/设计对照与改造记录.md)
+
+<sub>在线版为合成数据与已完成实验的只读快照，非实时天气服务；完整系统可在本地导入数据、训练和推理。</sub>
+
+<a href="https://guhang2011.github.io/meteoformer-weather-system/"><img src="https://raw.githubusercontent.com/GuHang2011/meteoformer-weather-system/main/assets/workspace-desktop.png" alt="MeteoFormer 气象预测工作台：深色地图、24 小时时效与单点预报；合成演示数据" width="900" /></a>
+
 ### 沭阳之家 · 多端社区系统
 
 `Vue 3` `Element Plus` `uni-app` `Spring Boot`

@@ -6,6 +6,7 @@
 
 ## 系统开发
 
+- **[MeteoFormer](https://github.com/GuHang2011/meteoformer-weather-system)**：Vue 3 / FastAPI / PyTorch 气象研究原型。[在线演示](https://guhang2011.github.io/meteoformer-weather-system/)支持五种要素、24 小时时效、网格查询与下载；使用合成数据和已完成训练记录，非实时业务预报。
 - **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；v1.6.0 增加事项、通知与互助办结。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
 - **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：图像检测、结果复核、样本批次、复查待办与备份冲突处理。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
 - **[辅导员工作流案例](https://github.com/GuHang2011/counselor-workflow-showcase)**：角色交互、状态转换、版本检查和重试契约。[静态演示](https://guhang2011.github.io/counselor-workflow-showcase/)，不包含真实学生数据。
