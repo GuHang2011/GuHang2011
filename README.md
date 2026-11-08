@@ -23,7 +23,7 @@
 
 `Vue 3` `TypeScript` `FastAPI` `PyTorch`
 
-以地图为主视图，探索 **5 类气象要素与 24 小时预报**。切换时效、点击网格查看单点曲线，下载 PNG / NetCDF；模型实验室展示实际训练日志与基线评估。
+以地图查看 **5 类气象要素与 24 小时预报**。底图使用 NASA Blue Marble 静态地形和 Natural Earth 水系，支持地形／简图切换、单点曲线与 PNG / NetCDF 下载；训练记录页提供日志与基线评估。
 
 [打开 Demo](https://guhang2011.github.io/meteoformer-weather-system/) · [源码与本地运行](https://github.com/GuHang2011/meteoformer-weather-system) · [设计与实现范围](https://github.com/GuHang2011/meteoformer-weather-system/blob/main/guides/设计对照与改造记录.md)
 
