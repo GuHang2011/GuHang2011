@@ -19,6 +19,8 @@
 
 ## 01 / 代表项目
 
+项目截图于 **2026 年 11 月 13 日**重新拍摄。[查看完整图集：桌面、手机与操作细节](https://guhang2011.github.io/project-screenshots.html)。
+
 ### MeteoFormer · 区域气象预测工作台
 
 `Vue 3` `TypeScript` `FastAPI` `PyTorch`
@@ -29,7 +31,7 @@
 
 <sub>在线版为合成数据与已完成实验的只读快照，非实时天气服务；完整系统可在本地导入数据、训练和推理。</sub>
 
-<a href="https://guhang2011.github.io/meteoformer-weather-system/"><img src="https://raw.githubusercontent.com/GuHang2011/meteoformer-weather-system/main/assets/workspace-desktop.png" alt="MeteoFormer 气象预测工作台：深色地图、24 小时时效与单点预报；合成演示数据" width="900" /></a>
+<a href="https://guhang2011.github.io/meteoformer-weather-system/"><img src="https://guhang2011.github.io/assets/project-previews/20261113/meteoformer-workspace-desktop.webp" alt="MeteoFormer 气象预测工作台：深色地图、24 小时时效与单点预报；合成演示数据" width="900" /></a>
 
 ### 沭阳之家 · 多端社区系统
 
@@ -44,9 +46,9 @@
 <details>
 <summary>查看工作台截图</summary>
 
-<a href="https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots"><img src="https://raw.githubusercontent.com/GuHang2011/shuyang-home/main/docs/screenshots/element-workspace-desktop.png" alt="沭阳之家 Element Plus 工作台，展示业务分类和管理入口；隔离测试数据" width="800" /></a>
+<a href="https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots"><img src="https://guhang2011.github.io/assets/project-previews/20261113/shuyang-home-desktop.webp" alt="沭阳之家当前公开社区首页，使用演示内容" width="800" /></a>
 
-截图来自隔离测试环境。[完整图集](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots)。
+2026 年 11 月 13 日拍摄于公开演示。[桌面与手机截图](https://guhang2011.github.io/project-screenshots.html#shot-shuyang)。
 
 </details>
 
@@ -63,7 +65,7 @@
 <details>
 <summary>查看交互界面</summary>
 
-<a href="https://guhang2011.github.io/demos/react-workflow/"><img src="https://guhang2011.github.io/assets/demo-gallery/react-workflow.webp" alt="React 与 Ant Design 工作流演示，包含审核任务和异常恢复操作" width="800" /></a>
+<a href="https://guhang2011.github.io/demos/react-workflow/"><img src="https://guhang2011.github.io/assets/project-previews/20261113/react-workflow-desktop.webp" alt="React 与 Ant Design 工作流演示，包含审核任务和异常恢复操作" width="800" /></a>
 
 </details>
 
@@ -71,7 +73,7 @@
 
 `JavaScript` `Vite` `Flask` `YOLO 接口`
 
-把图片、检测框、置信度和复核记录放在同一个工作台。当前 **v1.9.3** 在手机上保留搜索、按需展开筛选，支持跨页勾选与所选范围导出。逐区域复核、报告、备份冲突检查与可选 AI 接口继续可用。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
+把图片、检测框、置信度和复核记录放在同一个工作台。当前 **v1.9.4** 在手机上保留搜索、按需展开筛选，支持跨页勾选与所选范围导出。逐区域复核、报告、备份冲突检查与可选 AI 接口继续可用。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
 
 [打开 Demo](https://guhang2011.github.io/fieldlens/) · [源码与本地接入](https://github.com/GuHang2011/fieldlens) · [验证范围](https://github.com/GuHang2011/fieldlens/blob/main/docs/VALIDATION.md)
 
@@ -80,7 +82,7 @@
 <details>
 <summary>查看检测工作台</summary>
 
-<a href="https://guhang2011.github.io/fieldlens/"><img src="https://guhang2011.github.io/assets/fieldlens/product-workspace-193.webp" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
+<a href="https://guhang2011.github.io/fieldlens/"><img src="https://guhang2011.github.io/assets/project-previews/20261113/fieldlens-workspace-desktop.webp" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
 
 </details>
 

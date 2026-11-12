@@ -8,7 +8,7 @@
 
 - **[MeteoFormer](https://github.com/GuHang2011/meteoformer-weather-system)**：Vue 3 / FastAPI / PyTorch 气象研究原型。[在线演示](https://guhang2011.github.io/meteoformer-weather-system/)支持五种要素、24 小时时效、网格查询与下载；使用合成数据和已完成训练记录，非实时业务预报。
 - **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；当前 v1.11.1 完善首页和高铁专题的字体与手机布局，保留事项、通知与互助办结。[公开演示](https://guhang2011.github.io/shuyang-home/)。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
-- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：v1.9.3 图像检测工作台，包含区域复核、跨页勾选、所选范围导出与手机筛选。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
+- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：v1.9.4 图像检测工作台，包含区域复核、跨页勾选、所选范围导出与手机筛选。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
 - **[辅导员工作流案例](https://github.com/GuHang2011/counselor-workflow-showcase)**：角色交互、状态转换、版本检查和重试契约。[静态演示](https://guhang2011.github.io/counselor-workflow-showcase/)，不包含真实学生数据。
 - **[丝路智链](https://guhang2011.github.io/cases/silkroad/)**：从既有学院应用改造的跨境订单教学案例，关注状态、库存、权限与幂等。[界面图集](https://guhang2011.github.io/cases/silkroad/#screenshots) · [一致性笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)。[独立在线演示](https://guhang2011.github.io/silkroad-online-demo/)可体验购物、订单与主播。支付、设备及 AI 内容为仿真。
 - **[早期前端工程经历](https://guhang2011.github.io/cases/early-frontend/)**：生产反馈 PC / 移动端、思悦后台与电信固网平台；按原简历整理场景、职责和技术栈，关联 Demo 为独立学习示例。
@@ -120,3 +120,8 @@
 ## 工程与教学背景
 
 工程实践涉及 Vue / React、TypeScript、动态表单、接口契约、文档解析与检索，以及 Python、R、SQL 和数据分析。教学围绕数据采集、存储、分析和可视化展开。具体任职、职责与项目经历见[简历](https://guhang2011.github.io/research/cv.html)；私有项目经历与公开学习 Demo 分开说明。
+
+
+## 最新界面截图
+
+[2026-11-13 项目实拍图集](https://guhang2011.github.io/project-screenshots.html)：从当前可运行的公开演示拍摄，含桌面、手机和交互细节。历史本地截图在案例页单独注明；学习实验采用合成数据。
