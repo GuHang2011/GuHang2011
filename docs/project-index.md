@@ -7,12 +7,14 @@
 ## 系统开发
 
 - **[MeteoFormer](https://github.com/GuHang2011/meteoformer-weather-system)**：Vue 3 / FastAPI / PyTorch 气象研究原型。[在线演示](https://guhang2011.github.io/meteoformer-weather-system/)支持五种要素、24 小时时效、网格查询与下载；使用合成数据和已完成训练记录，非实时业务预报。
-- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；v1.6.0 增加事项、通知与互助办结。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
-- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：图像检测、结果复核、样本批次、复查待办与备份冲突处理。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
+- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；当前 v1.11.1 完善首页和高铁专题的字体与手机布局，保留事项、通知与互助办结。[公开演示](https://guhang2011.github.io/shuyang-home/)。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
+- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：v1.9.3 图像检测工作台，包含区域复核、跨页勾选、所选范围导出与手机筛选。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
 - **[辅导员工作流案例](https://github.com/GuHang2011/counselor-workflow-showcase)**：角色交互、状态转换、版本检查和重试契约。[静态演示](https://guhang2011.github.io/counselor-workflow-showcase/)，不包含真实学生数据。
-- **[丝路智链](https://guhang2011.github.io/cases/silkroad/)**：从既有学院应用改造的跨境订单教学案例，关注状态、库存、权限与幂等。[界面图集](https://guhang2011.github.io/cases/silkroad/#screenshots) · [一致性笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)。支付与设备为仿真。
+- **[丝路智链](https://guhang2011.github.io/cases/silkroad/)**：从既有学院应用改造的跨境订单教学案例，关注状态、库存、权限与幂等。[界面图集](https://guhang2011.github.io/cases/silkroad/#screenshots) · [一致性笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)。[独立在线演示](https://guhang2011.github.io/silkroad-online-demo/)可体验购物、订单与主播。支付、设备及 AI 内容为仿真。
 - **[早期前端工程经历](https://guhang2011.github.io/cases/early-frontend/)**：生产反馈 PC / 移动端、思悦后台与电信固网平台；按原简历整理场景、职责和技术栈，关联 Demo 为独立学习示例。
 - **[高校资料归档与协作实践](https://github.com/GuHang2011/engineering-notes)**：项目复盘、浏览器兼容与部署检查表。[界面截图](https://github.com/GuHang2011/engineering-notes/tree/main/screenshots)采用合成测试数据，未公开私有业务代码。
+
+- **[学院资料归档演示](https://github.com/GuHang2011/college-archive-demo)**：独立 Vue 3 演示，支持 16／18／20px 阅读设置、资料筛选、详情和模拟审核。[在线体验](https://guhang2011.github.io/college-archive-demo/)中的文件保存在当前浏览器；AI 和通讯另需 Node 服务。
 
 ## 交互实验
 
@@ -64,6 +66,10 @@
 [配套表单 Demo](https://guhang2011.github.io/demos/low-code-form/)；联动、迁移与发布流程目前为扩展设计。
 
 ### 前端与 AI 辅助开发
+
+- [手机工作台：第一条记录为什么这么靠下](https://guhang2011.github.io/notebook/mobile-workspace-reading.html)
+- [勾选、分页与导出范围](https://guhang2011.github.io/notebook/list-selection-scope.html)
+- [Agent 开发入门](https://guhang2011.github.io/notebook/agent-development-guide.html) · [实现笔记](https://guhang2011.github.io/notebook/agent-runtime-notes.html)
 
 - [审阅 AI 辅助代码：先复现旧响应覆盖新输入](https://guhang2011.github.io/notebook/ai-code-race-review.html)
 - [审核失败之后：重试、刷新与重置](https://guhang2011.github.io/notebook/workflow-recovery-review.html)

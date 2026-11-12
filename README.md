@@ -35,7 +35,7 @@
 
 `Vue 3` `Element Plus` `uni-app` `Spring Boot`
 
-将会员、活动、论坛、聊天和文件管理组织成一套多端业务系统。**v1.6.0 新增我的事项、站内通知和互助办结**；重点看聚合入口如何保持原业务权限，以及 Web、H5 与小程序之间的共享状态。
+将会员、活动、论坛、聊天和文件管理组织成一套多端业务系统。当前 **v1.11.1** 调整首页与高铁专题的字体和手机布局，保留事项、通知与互助办结。可在[公开演示](https://guhang2011.github.io/shuyang-home/)中查看社区与专题讨论。
 
 [源码与启动](https://github.com/GuHang2011/shuyang-home) · [项目介绍](https://guhang2011.github.io/cases/shuyang/) · [版本验收记录](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md)
 
@@ -71,7 +71,7 @@
 
 `JavaScript` `Vite` `Flask` `YOLO 接口`
 
-把图片、检测框、置信度和复核记录放在同一个工作台。**v1.3.1 改进详情分区、草稿保留与手机记录卡片**；支持逐区域复核、报告打印、备份冲突检查和可选 AI 接口。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
+把图片、检测框、置信度和复核记录放在同一个工作台。当前 **v1.9.3** 在手机上保留搜索、按需展开筛选，支持跨页勾选与所选范围导出。逐区域复核、报告、备份冲突检查与可选 AI 接口继续可用。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
 
 [打开 Demo](https://guhang2011.github.io/fieldlens/) · [源码与本地接入](https://github.com/GuHang2011/fieldlens) · [验证范围](https://github.com/GuHang2011/fieldlens/blob/main/docs/VALIDATION.md)
 
@@ -80,7 +80,7 @@
 <details>
 <summary>查看检测工作台</summary>
 
-<a href="https://guhang2011.github.io/fieldlens/"><img src="https://raw.githubusercontent.com/GuHang2011/fieldlens/main/docs/workspace.png" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
+<a href="https://guhang2011.github.io/fieldlens/"><img src="https://guhang2011.github.io/assets/fieldlens/product-workspace-193.webp" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
 
 </details>
 
@@ -93,6 +93,8 @@
 [源码与用法](https://github.com/GuHang2011/windows-file-organization-toolkit) · [交互样例与实现取舍](https://guhang2011.github.io/cases/file-inventory/)
 
 <sub>不移动或删除源文件；逻辑长度不是实际占用，不提供大目录性能结论。</sub>
+
+**系统演示：** [学院资料归档](https://guhang2011.github.io/college-archive-demo/)（阅读字号、归档与审核，浏览器保存） · [丝路智链](https://guhang2011.github.io/silkroad-online-demo/)（购物、订单与主播，合成数据及模拟 AI）。
 
 **更多动手体验：** [配置驱动表单](https://guhang2011.github.io/demos/low-code-form/) · [数据质量实验](https://guhang2011.github.io/demos/data-preparation/) · [多模态决策门控](https://guhang2011.github.io/demos/reliability-gates/)
 
@@ -110,7 +112,10 @@
 
 ## 03 / 最近在整理的笔记
 
-**最新工程复盘：从工具和业务代码中找具体问题。**
+新增[手机工作台：第一条记录为什么这么靠下](https://guhang2011.github.io/notebook/mobile-workspace-reading.html)，结合三个项目的源码，讨论筛选折叠、字号与曲线刻度。笔记集现有 **49 篇中英双语文章**。
+
+- [列表勾选与导出范围](https://guhang2011.github.io/notebook/list-selection-scope.html)
+- [前端转向 Agent 的学习路线](https://guhang2011.github.io/notebook/agent-development-guide.html) · [笔记助手实现记录](https://guhang2011.github.io/notebook/agent-runtime-notes.html)
 
 - [目录盘点：先定义范围，再看数字](https://guhang2011.github.io/notebook/inventory-scope-review.html)
 - [事项汇总之后，权限还要逐项检查](https://guhang2011.github.io/notebook/work-center-boundaries.html)
@@ -140,4 +145,4 @@
 
 ---
 
-<sub>内容整理于 2026-11-04。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>
+<sub>内容整理于 2026-11-12。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>
