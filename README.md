@@ -19,13 +19,13 @@
 
 ## 01 / 代表项目
 
-项目截图于 **2026 年 11 月 13 日**重新拍摄。[查看完整图集：桌面、手机与操作细节](https://guhang2011.github.io/project-screenshots.html)。
+项目截图于 **2026 年 11 月 13—15 日**整理更新，具体日期见各项目；禾镜已同步 v1.9.5 界面。[查看完整图集：桌面、手机与操作细节](https://guhang2011.github.io/project-screenshots.html)。
 
 ### MeteoFormer · 区域气象预测工作台
 
 `Vue 3` `TypeScript` `FastAPI` `PyTorch`
 
-以地图查看 **5 类气象要素与 24 小时预报**。底图使用 NASA Blue Marble 静态地形和 Natural Earth 水系，支持地形／简图切换、单点曲线与 PNG / NetCDF 下载；训练记录页提供日志与基线评估。
+以地图查看 **5 类气象要素与 24 小时预报**。底图使用 NASA Blue Marble 静态地形和 Natural Earth 水系，支持地形／简图切换、单点曲线与 PNG / NetCDF 下载，下载可查看进度、取消或失败重试；训练记录页提供日志与基线评估。
 
 [打开 Demo](https://guhang2011.github.io/meteoformer-weather-system/) · [源码与本地运行](https://github.com/GuHang2011/meteoformer-weather-system) · [设计与实现范围](https://github.com/GuHang2011/meteoformer-weather-system/blob/main/guides/设计对照与改造记录.md)
 
@@ -37,7 +37,7 @@
 
 `Vue 3` `Element Plus` `uni-app` `Spring Boot`
 
-将会员、活动、论坛、聊天和文件管理组织成一套多端业务系统。当前 **v1.11.1** 调整首页与高铁专题的字体和手机布局，保留事项、通知与互助办结。可在[公开演示](https://guhang2011.github.io/shuyang-home/)中查看社区与专题讨论。
+将会员、活动、论坛、聊天和文件管理组织成一套多端业务系统。当前 **v2.0.0** 补齐生产配置、导入限额、H5 子路径和版本交付检查；仍为单实例试点的部署准备。可在[公开演示](https://guhang2011.github.io/shuyang-home/)中查看社区与专题讨论。
 
 [源码与启动](https://github.com/GuHang2011/shuyang-home) · [项目介绍](https://guhang2011.github.io/cases/shuyang/) · [版本验收记录](https://github.com/GuHang2011/shuyang-home/blob/main/docs/验收记录.md)
 
@@ -73,16 +73,16 @@
 
 `JavaScript` `Vite` `Flask` `YOLO 接口`
 
-把图片、检测框、置信度和复核记录放在同一个工作台。当前 **v1.9.4** 在手机上保留搜索、按需展开筛选，支持跨页勾选与所选范围导出。逐区域复核、报告、备份冲突检查与可选 AI 接口继续可用。[界面改进说明](https://guhang2011.github.io/cases/fieldlens/#ui-refinement)。
+把图片、检测框、置信度和复核记录放在同一个工作台。当前 **v1.9.5** 增加连续复核：按筛选或勾选的范围依次查看记录，保存后继续，切换前提醒未保存修改。保留多标签页冲突保护、手机分页定位与可选 AI 接口。[实现与验证](https://github.com/GuHang2011/fieldlens/blob/8f447bc51021ed0993721aaca5ae8cac99c1f4db/docs/RELEASE_1.9.5.md)。
 
-[打开 Demo](https://guhang2011.github.io/fieldlens/) · [源码与本地接入](https://github.com/GuHang2011/fieldlens) · [验证范围](https://github.com/GuHang2011/fieldlens/blob/main/docs/VALIDATION.md)
+[打开工作台](https://guhang2011.github.io/fieldlens/?demo=1&v=1.9.5#workspace) · [源码与本地接入](https://github.com/GuHang2011/fieldlens) · [验证范围](https://github.com/GuHang2011/fieldlens/blob/main/docs/VALIDATION.md)
 
 <sub>在线版为合成插画与预设标注，不执行真实推理；本地可接入有授权的 YOLO 检测权重。</sub>
 
 <details>
 <summary>查看检测工作台</summary>
 
-<a href="https://guhang2011.github.io/fieldlens/"><img src="https://guhang2011.github.io/assets/project-previews/20261113/fieldlens-workspace-desktop.webp" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
+<a href="https://guhang2011.github.io/fieldlens/?demo=1&amp;v=1.9.5#workspace"><img src="https://guhang2011.github.io/assets/fieldlens/product-workspace-195.webp" alt="禾镜图像检测工作台，展示示例图片、参数和结果区域" width="800" /></a>
 
 </details>
 
@@ -114,7 +114,9 @@
 
 ## 03 / 最近在整理的笔记
 
-新增[手机工作台：第一条记录为什么这么靠下](https://guhang2011.github.io/notebook/mobile-workspace-reading.html)，结合三个项目的源码，讨论筛选折叠、字号与曲线刻度。笔记集现有 **49 篇中英双语文章**。
+新增[本地能看，不代表发布后能看](https://guhang2011.github.io/notebook/portfolio-release-checks.html)，记录截图更新与资源漏传的排查过程，附公开资源检查示例。笔记集现有 **50 篇中英双语文章**。
+
+[手机工作台阅读](https://guhang2011.github.io/notebook/mobile-workspace-reading.html) · [按项目搜索截图](https://guhang2011.github.io/project-screenshots.html)
 
 - [列表勾选与导出范围](https://guhang2011.github.io/notebook/list-selection-scope.html)
 - [前端转向 Agent 的学习路线](https://guhang2011.github.io/notebook/agent-development-guide.html) · [笔记助手实现记录](https://guhang2011.github.io/notebook/agent-runtime-notes.html)
@@ -147,4 +149,4 @@
 
 ---
 
-<sub>内容整理于 2026-11-12。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>
+<sub>内容整理于 2026-11-15。投稿状态依据已提供的信息；项目运行条件、来源和验证范围见各仓库说明。</sub>

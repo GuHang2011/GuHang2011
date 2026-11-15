@@ -7,8 +7,8 @@
 ## 系统开发
 
 - **[MeteoFormer](https://github.com/GuHang2011/meteoformer-weather-system)**：Vue 3 / FastAPI / PyTorch 气象研究原型。[在线演示](https://guhang2011.github.io/meteoformer-weather-system/)支持五种要素、24 小时时效、网格查询与下载；使用合成数据和已完成训练记录，非实时业务预报。
-- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；当前 v1.11.1 完善首页和高铁专题的字体与手机布局，保留事项、通知与互助办结。[公开演示](https://guhang2011.github.io/shuyang-home/)。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
-- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：v1.9.4 图像检测工作台，包含区域复核、跨页勾选、所选范围导出与手机筛选。[在线体验](https://guhang2011.github.io/fieldlens/)为预设标注演示，本地真实推理需要自备授权模型。
+- **[沭阳之家](https://github.com/GuHang2011/shuyang-home)**：Vue 3 / Element Plus / uni-app / Spring Boot。会员、活动、论坛、聊天与文件管理；当前 v2.0.0 完善生产配置、导入限额、H5 子路径及带版本校验的交付包；属于单实例试点的部署准备。[公开演示](https://guhang2011.github.io/shuyang-home/)。[新功能实现](https://guhang2011.github.io/cases/shuyang/#work-center)；本地可运行试点。[截图](https://github.com/GuHang2011/shuyang-home/tree/main/docs/screenshots) · [部署说明](https://github.com/GuHang2011/shuyang-home/blob/main/docs/启动与部署.md)。
+- **[禾镜 FieldLens](https://github.com/GuHang2011/fieldlens)**：v1.9.5 图像检测工作台，新增筛选或勾选范围内的连续复核，支持保存后继续与未保存修改提醒；保留冲突草稿、手机分页与范围导出。[在线体验](https://guhang2011.github.io/fieldlens/?demo=1&v=1.9.5#workspace)为预设标注演示，本地真实推理需要自备授权模型。
 - **[辅导员工作流案例](https://github.com/GuHang2011/counselor-workflow-showcase)**：角色交互、状态转换、版本检查和重试契约。[静态演示](https://guhang2011.github.io/counselor-workflow-showcase/)，不包含真实学生数据。
 - **[丝路智链](https://guhang2011.github.io/cases/silkroad/)**：从既有学院应用改造的跨境订单教学案例，关注状态、库存、权限与幂等。[界面图集](https://guhang2011.github.io/cases/silkroad/#screenshots) · [一致性笔记](https://github.com/GuHang2011/GuHang2011.github.io/blob/main/cases/silkroad/order-consistency.md)。[独立在线演示](https://guhang2011.github.io/silkroad-online-demo/)可体验购物、订单与主播。支付、设备及 AI 内容为仿真。
 - **[早期前端工程经历](https://guhang2011.github.io/cases/early-frontend/)**：生产反馈 PC / 移动端、思悦后台与电信固网平台；按原简历整理场景、职责和技术栈，关联 Demo 为独立学习示例。
@@ -67,6 +67,8 @@
 
 ### 前端与 AI 辅助开发
 
+- [本地能看，不代表发布后能看](https://guhang2011.github.io/notebook/portfolio-release-checks.html)：截图版本、公开资源检查与发布复盘。
+
 - [手机工作台：第一条记录为什么这么靠下](https://guhang2011.github.io/notebook/mobile-workspace-reading.html)
 - [勾选、分页与导出范围](https://guhang2011.github.io/notebook/list-selection-scope.html)
 - [Agent 开发入门](https://guhang2011.github.io/notebook/agent-development-guide.html) · [实现笔记](https://guhang2011.github.io/notebook/agent-runtime-notes.html)
@@ -124,4 +126,4 @@
 
 ## 最新界面截图
 
-[2026-11-13 项目实拍图集](https://guhang2011.github.io/project-screenshots.html)：从当前可运行的公开演示拍摄，含桌面、手机和交互细节。历史本地截图在案例页单独注明；学习实验采用合成数据。
+[项目实拍图集](https://guhang2011.github.io/project-screenshots.html)：11 月 13 日整理各项目界面，11 月 15 日同步禾镜 v1.9.5，含桌面、手机和交互细节。各项标注实际日期；历史本地截图在案例页单独注明，学习实验采用合成数据。
